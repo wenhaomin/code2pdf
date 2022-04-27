@@ -1,5 +1,5 @@
 # code2pdf
-A code-free solution to convert the code file into pdf 
+A **code-free** solution to convert the code file into pdf (for windows)
 
 ## Overall Solution
 [Visual Studio Code](https://code.visualstudio.com/download) + [Print](https://marketplace.visualstudio.com/items?itemName=pdconsec.vscode-print) (i.e., an extension of VS Code)
@@ -17,3 +17,7 @@ A code-free solution to convert the code file into pdf
  3.2 Choose to print as pdf, that's all.
 
  ![image](https://github.com/wenhaomin/code2pdf/blob/main/step2.png)
+ 
+ The following is a result example:
+ 
+  ![image](https://github.com/wenhaomin/code2pdf/blob/main/result.png)
